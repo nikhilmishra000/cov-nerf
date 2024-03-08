@@ -1,7 +1,7 @@
 
 ## Code for `Closing the Visual Sim-to-Real Gap with Object-Composable NeRFs`
 
-This repo contains code pertaining to our ICRA 2024 paper:
+This repo contains code pertaining to our ICRA 2024 paper ([arxiv](https://arxiv.org/abs/2403.04114)):
 
 ```
 "Closing the Visual Sim-to-Real Gap with Object-Composable NeRFs".
